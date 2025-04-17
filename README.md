@@ -1,4 +1,3 @@
-# portifolio
 # Vitor Luiz Bacaro Salvador
 
 🚀 Desenvolvedor Java | QA Tester  
@@ -9,47 +8,51 @@
 ---
 
 ## 💼 Sobre mim
-Desenvolvedor com experiência em Java, Python e COBOL, com forte atuação em testes de software, metodologias ágeis e foco em qualidade e entrega contínua. Experiência em projetos bancários, desenvolvimento de APIs, automação de testes e apoio à infraestrutura.
+Sou desenvolvedor com experiência em Java, Python e COBOL, com foco em qualidade de software, testes manuais e automatizados, metodologias ágeis e entrega contínua. Já atuei em projetos bancários e em empresas como IBM e PeopleServ, sempre buscando gerar valor com soluções bem construídas e testadas.
 
 ---
 
 ## 🛠️ Tecnologias & Competências
-- **Linguagens:** Java, Python, COBOL, JavaScript, SQL
-- **Frameworks e Ferramentas:** Spring Boot, JUnit, Cypress, Flask, Git, Docker, AWS
-- **Qualidade:** Testes Manuais, Testes Automatizados, BDD, TDD, QA, Jira
+- **Linguagens:** Java, Python, COBOL, JavaScript, C, SQL
+- **Frameworks/Ferramentas:** Spring Boot, Cypress, Flask, Electron, Git, Docker, AWS
+- **Testes:** Manuais, Automatizados, BDD, QA, TDD
 - **Banco de Dados:** SQL Server, MySQL, DB2
-- **Outros:** PowerDesigner, zOS, Scrum, Design Patterns
+- **Outros:** PowerDesigner, JIRA, zOS, Scrum, Design Patterns
 
 ---
 
-## 🧪 Projetos
+## 📁 Repositórios em destaque
 
-### 1. [Sistema de Cadastro de Clientes (Java + Spring Boot)](https://github.com/vitorsalvador/sistema-cadastro-clientes)
-> CRUD completo com Spring Boot, Thymeleaf e banco de dados H2. Permite cadastrar, editar, listar e remover clientes. Projeto simples, mas que demonstra boas práticas em Java e MVC.
+### 🎮 [jogo-adivinhacao](https://github.com/vitorsalvador/jogo-adivinhacao)
+> Jogo simples de adivinhação criado em linguagem C. Ótimo para lógica e fundamentos de programação.
 
-### 2. [API REST em Python com Flask](https://github.com/vitorsalvador/api-flask-produtos)
-> Uma API simples para cadastro e listagem de produtos usando Flask. Projeto leve, ideal para estudos de APIs REST e integração com frontend ou testes automatizados.
+### 🧪 [DesafioPython](https://github.com/vitorsalvador/DesafioPython)
+> Repositório com exercícios em Python focados em lógica e estrutura de dados.
 
-### 3. [Testes Automatizados com Cypress](https://github.com/vitorsalvador/testes-automatizados-cypress)
-> Testes automatizados de uma aplicação web simulada, utilizando Cypress. Casos de teste organizados e scripts reutilizáveis com estrutura de Page Objects.
+### 🧠 [projeto-electron](https://github.com/vitorsalvador/projeto-electron)
+> Projeto utilizando Electron + JavaScript para criação de aplicações desktop com tecnologias web.
 
-### 4. [Exemplo de Design Patterns em Java](https://github.com/vitorsalvador/design-patterns-java)
-> Repositório com exemplos dos principais padrões de projeto em Java (Strategy, Singleton, Factory), com código comentado e explicação de cada padrão no README.
+### 🧰 [dio-desafio-github](https://github.com/vitorsalvador/dio-desafio-github)
+> Primeiro repositório feito para o desafio GitHub da DIO, incluindo comandos básicos e README inicial.
 
 ---
 
 ## 📚 Certificações
 - IBM Agile Explorer
 - COBOL Mainframe Programmer (IBM)
-- Programador Java (Udemy)
-- Python do Zero ao Avançado (Udemy)
-- SAP BASIS, LGPD, Testes Automatizados (Udemy)
+- Java Completo (Udemy)
+- Python Avançado (Udemy)
+- Testes com Cypress e TDD (Udemy)
+- LGPD, SAP BASIS, Electron (Udemy/Alura)
 
 ---
 
 ## 🤝 Contato
-Se quiser trocar ideia sobre desenvolvimento, qualidade de software, projetos pessoais ou oportunidades, me chama aqui ou pelo LinkedIn!
+Vamos bater um papo sobre dev, QA, carreira ou projetos?
 
-> "A evolução é constante para quem nunca para de aprender."
+📧 vitorsalvador@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vitor-luiz-bacaro-salvador-53b1baab)
+
+> *"A evolução é constante para quem nunca para de aprender."*
 
 ---
