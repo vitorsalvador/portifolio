@@ -37,6 +37,18 @@ Sou desenvolvedor com experiência em Java, Python e COBOL, com foco em qualidad
 
 ---
 
+## 🎴 Cards dos Projetos
+
+[![Jogo Adivinhação](https://github-readme-stats.vercel.app/api/pin/?username=vitorsalvador&repo=jogo-adivinhacao)](https://github.com/vitorsalvador/jogo-adivinhacao)
+
+[![Desafio Python](https://github-readme-stats.vercel.app/api/pin/?username=vitorsalvador&repo=DesafioPython)](https://github.com/vitorsalvador/DesafioPython)
+
+[![Projeto Electron](https://github-readme-stats.vercel.app/api/pin/?username=vitorsalvador&repo=projeto-electron)](https://github.com/vitorsalvador/projeto-electron)
+
+[![DIO GitHub Desafio](https://github-readme-stats.vercel.app/api/pin/?username=vitorsalvador&repo=dio-desafio-github)](https://github.com/vitorsalvador/dio-desafio-github)
+
+---
+
 ## 📚 Certificações
 - IBM Agile Explorer
 - COBOL Mainframe Programmer (IBM)
